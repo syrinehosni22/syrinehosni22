@@ -14,8 +14,8 @@
 <!-- badge - img.shields.io -->
 <!-- icon svg - custom-icon-badges.demolab.com -->
 <p align="center">
-  <a href="mailto:hosnisyrine0@gmail.com"></a>
-  <a href="https://www.linkedin.com/in/hosni-syrine-382a34197/"></a>
+  <a href="mailto:hosnisyrine0@gmail.com">hosnisyrine0@gmail.com</a>
+  <a href="https://www.linkedin.com/in/hosni-syrine-382a34197/">https://www.linkedin.com/in/hosni-syrine-382a34197/</a>
 </p>
 
 <br/>
